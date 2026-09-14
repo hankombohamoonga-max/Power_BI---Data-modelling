@@ -5,5 +5,5 @@ STEPS
 _PHASE_1_ : RULE SETTING FOR PROJECT
 
 1. Naming convention - snake case, suffix, pre-fix
-2. Grouping Tables - Dimension, Fact, Other
+2. Grouping Tables - Stage, Dimension, Fact, Support and Other
 
